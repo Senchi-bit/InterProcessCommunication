@@ -1,0 +1,59 @@
+## Build
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+
+## Visual Studio / MSBuild
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.pidb
+*.svclog
+*.nupkg
+*.snupkg
+project.lock.json
+artifacts/
+
+## JetBrains Rider
+.idea/
+*.DotSettings.user
+
+## NuGet
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+## Test / coverage
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+coverage*.json
+coverage*.xml
+*.coverage
+*.coveragexml
+
+## Publish / installers
+*.publish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+*.appx
+*.appxbundle
+*.appxupload
+
+## Local / OS
+_probe/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
