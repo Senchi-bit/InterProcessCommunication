@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="ComIpc.Contracts/ComIpc.Contracts.csproj" />
+  <Project Path="ComIpc.Receiver/ComIpc.Receiver.csproj" />
+  <Project Path="ComIpc.Sender/ComIpc.Sender.csproj" />
+  <Project Path="FileIpc.Receiver/FileIpc.Receiver.csproj" />
+  <Project Path="FileIpc.Sender/FileIpc.Sender.csproj" />
+  <Project Path="TcpIpc.Receiver/TcpIpc.Receiver.csproj" />
+  <Project Path="TcpIpc.Sender/TcpIpc.Sender.csproj" />
+  <Project Path="WinApiIpc.Receiver/WinApiIpc.Receiver.csproj" />
+  <Project Path="WinApiIpc.Sender/WinApiIpc.Sender.csproj" />
+</Solution>
